@@ -1,0 +1,81 @@
+*{
+    margin : 0 auto;
+    padding: 0;
+}
+header{
+    width: 1200px;
+    height: 100px;
+}
+.logo{
+    width: 250px;
+    height: 100px;
+    background-color: aliceblue;
+    float: left;
+}
+.menu{
+    width: 800px;
+    height: 100px;
+    background-color: aqua;
+    float: right;
+}
+.bodywrap{
+    width: 1200px;
+    height: 500px;
+}
+.imgslide{
+    width: 1200px;
+    height: 300px;
+    background-color: aquamarine;
+}
+.contents{
+    width: 1200px;
+    height: 200px;
+}
+.tabmenu{
+    width: 400px;
+    height: 200px;
+    background-color: darkblue;
+    float: left;
+}
+.otherwrap{
+    width: 800px;
+    height: 200px;
+    float: left;
+}
+.banner{
+    width: 400px;
+    height: 200px;
+    background-color: yellowgreen;
+    float: left;
+}
+.shortcut{
+    width: 400px;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+}
+footer.wrap{
+    width: 1200px;
+    height: 100px;
+}
+.btlogo{
+    width: 250px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+.site{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.btmenu{
+    width: 600px;
+    height: 50px;
+    background-color: wheat;
+}
+.copy{
+    width: 600px;
+    height: 50px;
+    background-color: brown;
+}
